@@ -4,7 +4,7 @@
 This repository contains R scripts for performing exploratory data analysis (EDA), building a Random Forest model, and evaluating its performance on a bike rental dataset.
 
 ## 🗂️ Files
-* bike_analysis.R: R script for data analysis, visualization, and modeling.
+* R-Assessment-MridulGulati.R: R script for data analysis, visualization, and modeling.
 * Bike.xlsx: Sample dataset for bike rentals.
 
 ## 🛠️ Requirements
@@ -30,7 +30,7 @@ Make sure you have R installed on your system. You can download it from [R Studi
    ```
 3. Run the Script:
   * Open R or RStudio.
-  * Load and run the bike_analysis.R script.
+  * Load and run the R-Assessment-MridulGulati.R script.
 4. Explore Results:
   * Check the console for exploratory analysis output.
   * Plots will be saved in the current working directory.
